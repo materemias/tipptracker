@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TI5pptracker</string>
+    <string name="appwidget_text">money here</string>
+    <string name="add_widget">Add widget</string>
+    <string name="appwidget_update">last update</string>
+    <string name="appwidget_nextReward">next reward</string>
+</resources>
